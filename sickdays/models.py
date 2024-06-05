@@ -4,12 +4,11 @@ from django.db import models
 from employee.models import Employees
 
 
-# Create your models here.
-
-class HolidayRequest(models.Model):
+class SickDayRequest(models.Model):
 	employee = models.ForeignKey(Employees, on_delete=models.PROTECT)
 	start_date = models.DateField()
 	end_date = models.DateField()
+	comment = models.TextField(blank=True, null=True)
 	approved = models.BooleanField(default=False)
 	approved_by = models.ForeignKey(User, on_delete=models.PROTECT, null=True, blank=True)
 
