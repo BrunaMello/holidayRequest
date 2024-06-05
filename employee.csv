@@ -1,0 +1,151 @@
+name,email,department,position,city,employment_type,hire_date,fire_date,is_active
+Luisa Saraiva Alves,luisa@erincollege.com,Financial,Financial Manager,Dublin ,Full-Time,01/09/2021,31/12/2024,TRUE
+Amanda Donegan,amanda@erincollege.com,Academic,Director of Studies,Dublin ,Full-Time,01/11/2021,31/12/2024,TRUE
+Aoibhin Bryant,aoibhin@erincollege.com,Academic,Teacher,Dublin ,Full-Time,01/11/2022,31/12/2024,TRUE
+David Nalty,david.nalty@erincollege.com,Academic,Teacher,Dublin ,Full-Time,31/05/2021,31/12/2024,TRUE
+Elisa Maria Arco,elisa.c@erincollege.com,Academic,Teacher,Dublin ,Full-Time,14/03/2022,31/12/2024,TRUE
+Benjamin Smick,,Academic,Teacher,Dublin ,Full-Time,14/09/2021,31/12/2024,TRUE
+Kaique,,Sales,Sales Agent,Dublin ,Full-Time,12/07/2021,31/12/2024,TRUE
+Lucien Waugh,,Operational,Academic Affairs,Dublin ,Full-Time,03/08/2021,31/12/2024,TRUE
+Naima Mohamed,,Academic,Teacher,Dublin ,Full-Time,07/02/2022,31/12/2024,TRUE
+Shan Kelly,,Academic,Teacher,Dublin ,Full-Time,25/01/2022,31/12/2024,TRUE
+Vanessa Alves Mamedes,,Operational,Admission,Dublin ,Full-Time,16/08/2021,31/12/2024,TRUE
+Rafael Mello Galho,,Director,Director,Dublin ,Full-Time,17/06/2021,31/12/2024,TRUE
+Tugba Fuatoglu,,Operational,Student Support,Dublin ,Full-Time,08/07/2021,31/12/2024,TRUE
+Kaique W Dos Santos,,Operational,Student Support,Dublin ,Full-Time,12/07/2021,31/12/2024,TRUE
+Larissa Norton,,Academic,Teacher,Dublin ,Full-Time,01/12/2021,31/12/2024,TRUE
+Lydia B. la Torre,,Academic,Teacher,Dublin ,Full-Time,10/01/2022,31/12/2024,TRUE
+Eleanor Pauline Black,,Academic,Teacher,Dublin ,Full-Time,18/01/2022,31/12/2024,TRUE
+Shan Patricia Sarah Sharon Kelly,,Academic,Teacher,Dublin ,Full-Time,25/01/2022,31/12/2024,TRUE
+Javier De Luca,,Academic,Teacher,Dublin ,Full-Time,10/01/2022,31/12/2024,TRUE
+Jeandre Steyn,,Academic,Teacher,Dublin ,Full-Time,08/02/2022,31/12/2024,TRUE
+Nieves Hervás Arenas,,Academic,Teacher,Dublin ,Full-Time,07/02/2022,31/12/2024,TRUE
+Arfan Ahmed,,Academic,Teacher,Dublin ,Full-Time,14/02/2022,31/12/2024,TRUE
+Naeny Catarino dos Santos,,Academic,Teacher,Dublin ,Full-Time,11/02/2022,31/12/2024,TRUE
+Gelyn Mantilla,,Academic,Teacher,Dublin ,Full-Time,21/02/2022,31/12/2024,TRUE
+Cathy S. Pasia,,Academic,Teacher,Dublin ,Full-Time,22/02/2022,31/12/2024,TRUE
+Melike Yenice,,Academic,Teacher,Dublin ,Full-Time,21/02/2022,31/12/2024,TRUE
+Cem Akilli,,Academic,Teacher,Dublin ,Full-Time,31/01/2022,31/12/2024,TRUE
+Asma Rahmouni,,Academic,Teacher,Dublin ,Full-Time,28/02/2022,31/12/2024,TRUE
+Marius Fourie,,Academic,Teacher,Dublin ,Full-Time,08/03/2022,31/12/2024,TRUE
+Cristea Tcaciuc Snejana,,Academic,Teacher,Dublin ,Full-Time,15/03/2022,31/12/2024,TRUE
+Juliana Andrade Vargas,,Academic,Teacher,Dublin ,Full-Time,21/03/2022,31/12/2024,TRUE
+Maria Carolina Roman Garbelim,,Academic,Teacher,Dublin ,Full-Time,28/03/2022,31/12/2024,TRUE
+ANNA IEVTIFIEIEVA,,Academic,Teacher,Dublin ,Full-Time,25/03/2022,31/12/2024,TRUE
+Merve Alpaydın,,Academic,Teacher,Dublin ,Full-Time,28/03/2022,31/12/2024,TRUE
+Rocío Gómez García,,Academic,Teacher,Dublin ,Full-Time,04/04/2022,31/12/2024,TRUE
+Christopher Clancy,,Academic,Teacher,Dublin ,Full-Time,19/04/2022,31/12/2024,TRUE
+Janeah Quinn,,Academic,Teacher,Dublin ,Full-Time,03/05/2022,26/04/2024,FALSE 
+Bruno Fernandez Ruiz,,Academic,Teacher,Dublin ,Full-Time,30/05/2022,31/12/2024,TRUE
+Sohail Jhuboo,,Operational,Student Support,Dublin ,Full-Time,21/03/2022,31/12/2024,TRUE
+Lucy Erendira Quezada Campos,,Operational,Student Support,Dublin ,Full-Time,25/04/2022,31/12/2024,TRUE
+Nicos Charalambous,,Academic,Teacher,Dublin ,Full-Time,30/05/2022,31/12/2024,TRUE
+Anna Gdulska,,Academic,Teacher,Dublin ,Full-Time,03/07/2022,31/12/2024,TRUE
+Marharyta Musiienko,,Academic,Teacher,Dublin ,Full-Time,11/07/2022,31/12/2024,TRUE
+HAYDAR CAN Gezici,,Operational,Student Support,Dublin ,Full-Time,01/06/2022,31/12/2024,TRUE
+Alexandre Roncada,,Academic,Teacher,Dublin ,Full-Time,20/06/2022,31/12/2024,TRUE
+Jorge Corrales Salas,,Operational,Student Support,Dublin ,Full-Time,01/07/2022,31/12/2024,TRUE
+João Victor Martins Santos,,Maintenance ,Cleaner,Dublin ,Full-Time,07/06/2022,31/12/2024,TRUE
+Fernanda Marocco Faria,,Sales,Head of Sales,Dublin ,Full-Time,25/07/2022,31/12/2024,TRUE
+Priscilla Campelo Betuyaku,,Marketing ,Marketing Manager ,Dublin ,Full-Time,02/08/2022,31/12/2024,TRUE
+Teodora Clipa,,Academic,Teacher,Dublin ,Full-Time,19/09/2022,06/05/2024,FALSE 
+Jazmín Mariel Tesone,,Operational,Receptionist,Dublin ,Full-Time,22/08/2022,31/12/2024,TRUE
+María Alejandra Fumaroni,,Academic,Teacher,Dublin ,Full-Time,05/09/2022,31/12/2024,TRUE
+Carolina Ferreira Cortes Novaes,,Academic,Teacher,Dublin ,Full-Time,01/08/2022,31/12/2024,TRUE
+Eugenia Belen Rodriguez Martinez,,Sales,Sales & Student Advisor,Dublin ,Full-Time,29/08/2022,13/10/2024,FALSE 
+Lucia Garcia Toribio,,Operational,Receptionist,Dublin ,Full-Time,12/09/2022,31/12/2024,TRUE
+Vera Lucia Santos Cerqueira,,Operational,Operational asistant,Dublin ,Full-Time,13/09/2022,31/12/2024,TRUE
+Aidan Thomas,,Operational,Receptionist,Dublin ,Full-Time,19/09/2022,31/12/2024,TRUE
+Daria Zadorozhna,,Academic,Teacher,Dublin ,Full-Time,05/09/2022,31/12/2024,TRUE
+David Louis Rooney,,Academic,Teacher,Dublin ,Full-Time,29/08/2022,31/12/2024,TRUE
+Francisco Ernersto Velasquez Flor,,Operational,Receptionist,Dublin ,Full-Time,05/09/2022,31/12/2024,TRUE
+John Gerard Gallagher,,Operational,Receptionist,Dublin ,Full-Time,19/09/2022,31/12/2024,TRUE
+Maria Moro Pietro,,Operational,Receptionist,Dublin ,Full-Time,05/09/2022,31/12/2024,TRUE
+Oleksandra Lutsu,,Academic,Teacher,Dublin ,Full-Time,05/09/2022,31/12/2024,TRUE
+Fernanda Maria Claudia Gonzalez Pinto,,Sales,Saler Agent,Dublin ,Full-Time,06/09/2022,31/12/2024,TRUE
+Filipe Soares evangelista,,Operational,Cleaner,Dublin ,Full-Time,05/09/2022,31/12/2024,TRUE
+Cynthia Alejandra Valenzuela Del Rio,,Operational,Receptionist,Dublin ,Full-Time,24/10/2022,31/12/2024,TRUE
+Bianca Nayara da Cruz,,Academic,Teacher,Dublin ,Full-Time,11/10/2022,31/12/2024,TRUE
+Sarah Connaughton,,Academic,Teacher,Dublin ,Full-Time,10/10/2022,31/12/2024,TRUE
+Thiago Mendes Khoury,,Academic,Teacher,Dublin ,Full-Time,17/10/2022,31/12/2024,TRUE
+Evgeniia Iushkevich,,Operational,Student Support,Dublin ,Full-Time,24/10/2022,31/12/2024,TRUE
+Arleen Patricia Luque Arosemena,,Sales,Sales & Student Advisor,Dublin ,Full-Time,22/11/2022,31/12/2024,TRUE
+Sachini Pramodya Athapaththu,,Academic,Teacher,Dublin ,Full-Time,01/11/2022,31/12/2024,TRUE
+Jingyi Guo,,Academic,Teacher,Dublin ,Full-Time,21/11/2022,31/12/2024,TRUE
+Marcelo Alves,,Academic,Teacher,Dublin ,Full-Time,06/12/2022,31/12/2024,TRUE
+Hendreny Dias dos Santos,,Sales,Sales & Student Advisor,Dublin ,Full-Time,19/01/2023,31/12/2024,TRUE
+João Pedro Duarte de Oliveira,,Marketing ,Designer,Dublin ,Full-Time,02/01/2023,31/12/2024,TRUE
+Eloísa Mínguez Sánchez,,Academic,Teacher,Dublin ,Full-Time,30/01/2023,30/01/2024,FALSE
+Alessandro Nunes,,Academic,Teacher,Dublin ,Full-Time,31/01/2023,15/02/2024,FALSE
+Barbara Natalie Delfs,,Academic,Teacher,Dublin ,Full-Time,24/01/2023,31/12/2024,TRUE
+Mengting Wang,,Academic,Teacher,Dublin ,Full-Time,13/01/2023,31/12/2024,TRUE
+Lais Marin de Campos,,Academic,Teacher,Dublin ,Full-Time,02/02/2023,31/12/2024,TRUE
+Han weixiao,,Academic,Teacher,Dublin ,Full-Time,13/02/2023,23/02/2024,FALSE
+Alejandro Adolfo Robe Zamora,,Operational,Operational Manager,Dublin ,Full-Time,02/02/2023,31/12/2024,TRUE
+Lucila Tonelli Alves,,Academic,Teacher,Dublin ,Full-Time,17/02/2023,31/12/2024,TRUE
+Ana Guirola Reyes,,Academic,Teacher,Dublin ,Full-Time,06/03/2023,31/12/2024,TRUE
+Luke Spencer,,Academic,Teacher,Dublin ,Full-Time,03/04/2023,31/12/2024,TRUE
+Kristina Hamzollari,,Academic,Teacher,Dublin ,Full-Time,15/03/2023,31/12/2024,TRUE
+Juliana da Costa hartmann,,Operational,Cleaner,Dublin ,Full-Time,18/03/2023,31/12/2024,TRUE
+Angelo marcelo Caroca sanchez,,Sales,Sales & Student Advisor,Dublin ,Full-Time,10/04/2023,19/01/2024,FALSE
+Julia Garcia Vaquero,,Human Resources,RH Manager,Dublin ,Full-Time,29/05/2023,31/12/2024,TRUE
+Rafael Cunha Soares Tavares,,Sales,Sales & Student Advisor,Dublin ,Full-Time,13/04/2023,10/05/2024,FALSE
+Michael Kent Beaderstadt,,Academic,Teacher,Dublin ,Full-Time,24/04/2023,31/12/2024,TRUE
+Shucheng Yang,,Sales,Sales & Student Advisor,Dublin ,Full-Time,08/05/2023,31/12/2024,TRUE
+Selene Vañó Morata,,Academic,Teacher,Dublin ,Full-Time,29/05/2023,31/12/2024,TRUE
+Raelee Cindy Dallacqua Fisher,,Academic,Teacher,Dublin ,Full-Time,15/05/2023,31/12/2024,TRUE
+Jodie  Gardner O’Hora,,Academic,Teacher,Dublin ,Full-Time,15/05/2023,31/12/2024,TRUE
+Isabela Souza Mendes,,Academic,Teacher,Dublin ,Full-Time,08/08/2023,31/12/2024,TRUE
+Simsy Sebastian,,Academic,Teacher,Dublin ,Full-Time,22/05/2023,31/12/2024,TRUE
+Ulziikhutag Erdenebileg,,Sales,Sales & Student Advisor,Dublin ,Full-Time,01/05/2023,31/12/2024,TRUE
+Bianca Rodrigues de Moura,,Sales,Sales & Student Advisor,Dublin ,Full-Time,06/03/2023,30/04/2024,FALSE
+Jonathan Fonteli Guerra,,Sales,Sales & Student Advisor,Dublin ,Full-Time,09/03/2023,31/12/2024,TRUE
+Bruna Bianca Crespo Mello,,IT,IT Support,Dublin ,Full-Time,12/06/2023,31/12/2024,TRUE
+Iago Salgado Xavier,,Operational,Operational asistant,Dublin ,Full-Time,23/06/2023,31/12/2024,TRUE
+MARIANA TSAMI,,Academic,Teacher,Dublin ,Full-Time,12/06/2023,31/12/2024,TRUE
+Lucas Dupuis,,Academic,Teacher,Dublin ,Full-Time,10/07/2023,31/12/2024,TRUE
+Gislene cassia ferreira,,Sales,Sales & Student Advisor,Dublin ,Full-Time,12/07/2023,31/12/2024,TRUE
+Marina Garcia Villas,,Academic,Teacher,Dublin ,Full-Time,25/07/2023,31/12/2024,TRUE
+Nada Percan,,Academic,Teacher,Dublin ,Full-Time,14/08/2023,24/05/2024,FALSE
+Marta González Cañete,,Academic,Teacher,Dublin ,Full-Time,24/07/2023,05/03/2024,FALSE
+Daniela Montserrat Hernández Robles,,Academic,Teacher,Dublin ,Full-Time,24/07/2023,31/12/2024,TRUE
+Nathalia Sena,,Academic,Teacher,Dublin ,Full-Time,01/08/2023,31/12/2024,TRUE
+Sophia Maddock,,Academic,Teacher,Dublin ,Full-Time,01/08/2023,31/12/2024,TRUE
+Gilmar struck,,Academic,Teacher,Dublin ,Full-Time,01/08/2023,31/12/2024,TRUE
+Miguel Miotto  Ciato,,Operational,Student Support,Dublin ,Full-Time,04/08/2023,31/12/2024,TRUE
+Natalia Gonzalez Rodriguez,,Academic,Teacher,Dublin ,Full-Time,19/09/2023,31/12/2024,TRUE
+Bruna Souza Paes de Barros,,Sales,Sales & Student Advisor,Dublin ,Full-Time,18/09/2023,22/03/2024,FALSE
+Mahiro Gunjj,,Sales,Sales & Student Advisor,Dublin ,Full-Time,23/10/2023,31/12/2024,TRUE
+Nomin Suren,,Sales,Sales & Student Advisor,Dublin ,Full-Time,23/10/2023,31/12/2024,TRUE
+Camila Javiera Becerra Conejero,,Operational,Receptionist,Dublin ,Full-Time,31/10/2023,31/12/2024,TRUE
+Renan Willian,,Sales,Sales & Student Advisor,Dublin ,Full-Time,08/11/2023,31/12/2024,TRUE
+Harry Burchell McKenzie,,Academic,Academic Director,Dublin ,Full-Time,22/11/2023,31/12/2024,TRUE
+Marlen Arguedas,,Sales,Sales & Student Advisor,Dublin ,Full-Time,27/11/2023,31/12/2024,TRUE
+Paloma Duarte Fortaleza,,Sales,Sales & Student Advisor,Dublin ,Full-Time,27/11/2023,31/12/2024,TRUE
+Danton Guesser,,Operational,Cleaner,Dublin ,Full-Time,13/12/2023,31/12/2024,TRUE
+Luciano Amoretti,,Marketing ,Marketing,Dublin ,Full-Time,02/01/2024,31/12/2024,TRUE
+Andrew Kiely,,Academic,Teacher,Dublin ,Full-Time,08/01/2024,30/05/2024,FALSE
+Elena Geanina Kiss,,Academic,Teacher,Dublin ,Full-Time,08/01/2024,31/12/2024,TRUE
+Jack Archer,,Academic,Teacher,Dublin ,Full-Time,08/01/2024,31/12/2024,TRUE
+Mariana Andrea Garcia Ramirez,,Sales,Sales & Student Advisor,Dublin ,Full-Time,15/01/2024,13/03/2024,FALSE
+Maria Eduarda da Rosa Bloedow,,Operational,Cleaner,Dublin ,Full-Time,22/01/2024,31/12/2024,TRUE
+Vanessa Pedro da Rosa,,Operational,Cleaner,Dublin ,Full-Time,25/02/2022,31/12/2024,TRUE
+Mateus Ângelo Solte Pedroso,,Sales,Sales & Student Advisor,Dublin ,Full-Time,06/02/2024,31/12/2024,TRUE
+Hatice Aleyna Yılmaz,,Sales,Sales & Student Advisor,Dublin ,Full-Time,06/02/2024,31/12/2024,TRUE
+Felipe Cristian Rojas Badilla,,Sales,Sales & Student Advisor,Dublin ,Full-Time,12/02/2024,31/12/2024,TRUE
+Elena Liubomirova,,Academic,Teacher,Dublin ,Full-Time,01/03/2024,31/12/2024,TRUE
+Dmytro Olgin,,Academic,Teacher,Dublin ,Full-Time,04/03/2024,31/12/2024,TRUE
+Akansha Mohan,,Academic,Teacher,Dublin ,Full-Time,06/03/2024,31/12/2024,TRUE
+Yonglin Chen,,Sales,Sales & Student Advisor,Dublin ,Full-Time,25/03/2024,24/05/2024,FALSE
+Bruna Daniela Weber Cavallaro,,Academic,Teacher,Dublin ,Full-Time,03/04/2024,31/12/2024,TRUE
+Saif Ahmed,,Academic,Teacher,Dublin ,Full-Time,02/04/2024,31/12/2024,TRUE
+Jessica Forde,,Academic,Teacher,Dublin ,Full-Time,02/04/2024,31/12/2024,TRUE
+Yiping Li,,Academic,Teacher,Dublin ,Full-Time,01/05/2024,31/12/2024,TRUE
+Diego Daniel López Espejel,,Sales,Sales & Student Advisor,Dublin ,Full-Time,07/05/2024,31/12/2024,TRUE
+Adriele Valentina Neumann,,Sales,Sales & Student Advisor,Dublin ,Full-Time,07/05/2024,31/12/2024,TRUE
+Esmeralda Mayela Fierro Rodriguez,,Sales,Sales & Student Advisor,Dublin ,Full-Time,08/05/2024,31/12/2024,TRUE
+Thomas Hickey,,Academic,Teacher,Dublin ,Full-Time,13/05/2024,31/12/2024,TRUE
+Fiorella Grisolia,,Sales,Sales & Student Advisor,Dublin ,Full-Time,27/05/2024,31/12/2024,TRUE
+Gabriela Gomes de Lavor,,Sales,Sales & Student Advisor,Dublin ,Full-Time,27/05/2024,31/12/2024,TRUE
+Lucas Serafim Valentim,,Sales,Sales & Student Advisor,Dublin ,Full-Time,27/05/2024,31/12/2024,TRUE
+Caio Felipe de Almeida,,Sales,Sales & Student Advisor,Dublin ,Full-Time,04/06/2024,31/12/2024,TRUE
