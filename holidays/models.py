@@ -12,6 +12,3 @@ class HolidayRequest(models.Model):
 	end_date = models.DateField()
 	approved = models.BooleanField(default=False)
 	approved_by = models.ForeignKey(User, on_delete=models.PROTECT, null=True, blank=True)
-
-	def __str__(self):
-		return f'{self.employee} - {self.start_date} to {self.end_date}'

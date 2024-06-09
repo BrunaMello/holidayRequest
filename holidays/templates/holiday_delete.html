@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+    <h2>Holiday Delete</h2>
+    <p>Are you sure you want to delete <strong style="color: darkblue">{{ object.employee }}</strong> holiday's from
+        <strong>{{ object.start_date|date:"d-m-Y" }}</strong>
+        to <strong>{{ object.end_date|date:"d-m-Y" }}</strong>?</p>
+    <form method="post">
+        {% csrf_token %}
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a style="margin: 10px" href="{% url 'holiday_list' %}" class="btn btn-secondary">Cancel</a>
+    </form>
+
+{% endblock %}

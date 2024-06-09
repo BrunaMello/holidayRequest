@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+    <table id="datatablesSimple" class="table-striped table-hover table-responsive-lg datatable">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Approved</th>
+            <th>Approved by</th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tfoot>
+        <tr>
+            <th>Name</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Approved</th>
+            <th>Approved by</th>
+            <th>Actions</th>
+        </tr>
+        </tfoot>
+        <tbody>
+        {% for holiday in holidays %}
+            <tr>
+                <td>{{ holiday.employee }}</td>
+                <td>{{ holiday.start_date|date:'d-m-Y' }}</td>
+                <td>{{ holiday.end_date|date:'d-m-Y' }}</td>
+                {% if holiday.approved %}
+                    <td class="active-label"><span class="badge bg-success">YES</span>
+                    </td>
+                {% else %}
+                    <td><span class="badge bg-danger">NO</span></td>
+                {% endif %}
+                <td>{{ holiday.approved_by }}</td>
+                <td><a href="{% url 'holiday_update' holiday.pk %}"><span
+                        class="badge rounded-pill bg-warning text-black">Edit</span></a>
+                    <a href="{% url 'holiday_update' holiday.pk %}"><span
+                            class="badge rounded-pill bg-info text-black">Details</span></a>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+{% endblock %}
