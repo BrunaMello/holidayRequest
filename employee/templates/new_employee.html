@@ -1,11 +1,20 @@
+{% extends 'base.html' %}
 {% block content %}
 
-    <h2>New Employee</h2>
+    <div class="card-body">
+        <div class="d-flex justify-content-center">
+            <form method="post" class="form-control" enctype="multipart/form-data">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <div class="d-flex justify-content-center">
+                    <input type="submit" class="btn btn-primary file-selector-button" style="margin-top: 20px">
+                </div>
+            </form>
+        </div>
 
-    <form method="post" enctype="multipart/form-data">
-        {% csrf_token %}
-        {{ form.as_p }}
-    </form>
-    <button type="submit">Submit</button>
+
+    </div>
+
+
 
 {% endblock %}

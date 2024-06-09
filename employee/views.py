@@ -1,15 +1,14 @@
-from django.urls import reverse_lazy
 from django.views.generic import CreateView, ListView, UpdateView, DeleteView
 
-from employee.forms import EmployeeModelForm
+from employee.forms import NewEmployeeModelForm, UpdateEmployeeModelForm
 from employee.models import Employees
 
 
 class NewEmployeeCreateView(CreateView):
 	model = Employees
 	template_name = 'new_employee.html'
-	form_class = EmployeeModelForm
-	success_url = '/employee/new_employee/'
+	form_class = NewEmployeeModelForm
+	success_url = '/employee/employee_list/'
 
 
 class EmployeeListView(ListView):
@@ -41,11 +40,8 @@ class EmployeeDetailView(ListView):
 class EmployeeUpdateView(UpdateView):
 	model = Employees
 	template_name = 'employee_update.html'
-	form_class = EmployeeModelForm
+	form_class = UpdateEmployeeModelForm
 	success_url = '/employee/employee_list/'
-
-	def get_success_url(self):
-		return reverse_lazy('employee', kwargs={'pk': self.object.id})
 
 
 class EmployeeDeleteView(DeleteView):

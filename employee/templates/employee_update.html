@@ -1,11 +1,20 @@
+{% extends 'base.html' %}
 {% block content %}
 
-    <h2>Update Employee</h2>
-    <form method="post">
-        {% csrf_token %}
-        {{ form.as_p }}
-        <button type="submit">Update</button>
-    </form>
-    <a href="{% url 'employee_list' %}">Back to list</a>
+    <div class="card-body">
+        <div class="d-flex justify-content-center">
+            <form method="post" class="form-control" enctype="multipart/form-data">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <div class="d-flex justify-content-center">
+                    <input style="margin: 10px" type="submit" value="Update" class="btn btn-primary">
+                    <a style="margin: 10px" href="{% url 'employee_delete' pk=object.pk %}" class="btn btn-danger">Delete</a>
+                    <a style="margin: 10px" href="{% url 'employee_list' %}" class="btn btn-secondary">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+
 
 {% endblock %}
